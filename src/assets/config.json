@@ -1,3 +1,4 @@
 {
-  "urlApi": "https://localhost:44398/"
+  "urlApi": "https://localhost:44398/",
+  "otherUrlApi": "https://localhost:44398/"
 }
